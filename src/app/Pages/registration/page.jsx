@@ -69,7 +69,7 @@ function page() {
                     name="work_status"
                     className="form-radio"
                   />
-                  <span>I'm experienced</span>
+                  <span>I m experienced</span>
                 </label>
                 <label className="flex items-center space-x-2">
                   <input
@@ -77,7 +77,7 @@ function page() {
                     name="work_status"
                     className="form-radio"
                   />
-                  <span>I'm a fresher</span>
+                  <span>I m a fresher</span>
                 </label>
               </div>
             </div>
